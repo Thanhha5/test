@@ -38,27 +38,6 @@ Notepad++ v8.3.2 regression-fixes, bug-fixes and new enhancements:
 12. Fix saving problem (regression) with "Sysnative" alias in x86 binary.
 
 
-Notepad++ v8.3.1 regression-fixes, bug-fixes and enhancement:
-
-1.  Fix XML tag adding or mark deletion crash issue.
-2.  Fix wrong cursor position on opened file & cmdline '-n' param not working regression.
-3.  Revert "Enable backup on save (simple) feature by default".
-4.  Restore auto-completion insert selection default behaviour (now with both ENTER & TAB as expected).
-5.  Fix Path Completion not working regression.
-6.  Fix target directory parameter (/D=) ignored by x64 installer regression.
-7.  Add icons in front of function items of auto-completion to distinguish from word items.
-8.  Fix file dialog "Append extension" checkbox not working on empty folder.
-9.  Fix link part of Dark Mode Customized tone not persistent issue.
-10. Fix NPPM_RELOADFILE not working with converted 8.3 DOS file name bug.
-
-
-Notepad++ v8.3 new features and bug-fixes:
-
-1.  Remove 2GB file open restriction for x64 binary.
-2.  Improve large files (200MB) loading speed and editing/browsing performance.
-3.  Fix Find in Files crash issue.
-
-
 
 
 Included plugins:
