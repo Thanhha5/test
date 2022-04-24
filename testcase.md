@@ -21,4 +21,4 @@ Scenario 2: Login with signature
 
 ##Feature: Organization account login
 
-Scenario 3: Login with signature
+Scenario 4: Login with signature
